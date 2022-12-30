@@ -22,8 +22,6 @@ public class Assignment9Application {
 	public static void main(String[] args) throws IOException {
 		SpringApplication.run(Assignment9Application.class, args);
 
-		System.out.println("Debug");
-
 	}
 
 }
